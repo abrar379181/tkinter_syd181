@@ -1,0 +1,45 @@
+Instructions for Playing "Animal Hero Game": Goal:
+
+As the animal hero, you must navigate a world with fixed platforms. Take down opponents, gather resources, and live as long as you can while preserving your health and life. There will always be new enemies that spawn and try to harm you.
+
+Regulators:
+1. Press the Left Arrow key (←) to go left.
+2. To move right, use the → key on the right arrow.
+3. Use the Spacebar to jump. Only when you are on the ground can you jump.
+
+Shoot: To launch projectiles against adversaries, press the 'Z' key. After shooting once, the projectile will be destroyed.
+
+Playing the game:
+The player is approached by red square adversaries that sporadically appear on the right side of the screen. You may use projectiles to shoot and destroy them.
+
+Your health will drop by 1 after an enemy collision. 
+
+Coins: Yellow coins will sporadically spawn all around the surface. Leap to gather them.
+
+You will receive five extra points for each coin you collect.
+
+Health:
+The game starts with three health points for you. You lose one health point for every opponent contact.
+One life is lost when your health drops to zero. Your health returns to 3 and you resume the game if you have any lives left.
+You start off with three lives. The game ends after you use up all three of your lives.
+
+HUD (Heads-Up Display): Top-left of the screen displays the following information:
+
+Health: Shows your current health point total (up to a maximum of three).
+
+Lives: Displays the maximum number of lives you still have, three.
+
+Score: Shows the overall score depending on the number of coins gathered and opponents vanquished.
+
+The game will terminate if you lose all three of your life.
+
+You have two choices when you see the "Game Over" screen:
+To restart the game, press R.
+To exit the game, press Q.
+
+Tips for Strategy:
+To avoid colliding with enemies, move swiftly.
+Plan your leaps to avoid obstacles and get money.
+When it's feasible, fire at adversaries to stop damage.
+Good luck, Hero!
+
