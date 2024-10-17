@@ -1,0 +1,6 @@
+The music player (HIT137 player) is a basic music player. The dist folder contains the exe file.
+It consists with Play, Pause and Stop buttons.
+
+i. Play: Play button opens the explorer. User can browse for the MP3 file and after pressing open, the track will start playing.
+ii. Pause: User can pause the track.
+iii. Stop: Stop button totally stops the song/track.
