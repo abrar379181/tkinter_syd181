@@ -2,7 +2,7 @@ Instructions for Playing "Animal Hero Game": Goal:
 
 As the animal hero, you must navigate a world with fixed platforms. Take down opponents, gather resources, and live as long as you can while preserving your health and life. There will always be new enemies that spawn and try to harm you.
 
-Regulators:
+Controls:
 1. Press the Left Arrow key (←) to go left.
 2. To move right, use the → key on the right arrow.
 3. Use the Spacebar to jump. Only when you are on the ground can you jump.
